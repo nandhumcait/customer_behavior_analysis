@@ -79,6 +79,7 @@ Filters for category, region, or period
 Drill-down views for detailed exploration
 
 (Screenshots can be added here if available
+https://github.com/nandhumcait/customer_behavior_analysis/blob/c52b0c46a0ea56a3deb50d681d65bf57a1a7c904/Screenshot%20(1554).png
 
 
 🧾 Results & Insights
