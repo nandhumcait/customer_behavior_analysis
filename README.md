@@ -1,6 +1,6 @@
-📊 Customer Behavior analysis 
+#📊 Customer Behavior analysis 
 
-Business Problem Statement:
+##Business Problem Statement:
 
 A leading retail company wants to better understand its customers’ shopping behavior in order 
 to improve sales, customer satisfaction, and long-term loyalty. The management team has noticed changes in purchasing patterns across demographics, product categories, and sales channels (online vs. offline). They are particularly interested in uncovering which factors, such as discounts, reviews, seasons, or payment preferences, drive consumer decisions and repeat purchases.This project demonstrates the complete  data analysis workflow — from data collection to visualization and reporting.It includes loading and exploring a dataset in Python, cleaning and preparing the data, performing SQL queries in PostgreSQL, and building an interactive Power BI dashboard to communicate insights effectively.
@@ -91,12 +91,7 @@ Drill-down views for detailed exploration
 <img width="1205" height="743" alt="Image" src="https://github.com/user-attachments/assets/e6574f15-a112-46c5-85fc-f2920eca24e8" />
 🧾 Results & Insights
 
-[Summarize 2–3 main insights, e.g.:]
-
-Sales grew by 18% year-over-year in key markets.
-
-The top 10% of customers contributed to 45% of total revenue.
-
-Seasonal trends show peak activity in Q4.
-
-These insights informed recommendations for [e.g., marketing optimization, inventory planning, customer retention].
+- Discounts and promotions significantly drive purchase frequency  
+- Subscription customers show **35% higher repeat purchase rate**  
+- **Seasonal peaks** observed during festive periods  
+- Positive product reviews strongly correlate with higher spending 
