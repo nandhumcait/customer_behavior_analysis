@@ -1,20 +1,24 @@
 📊 Customer Behavior analysis 
 🧩 Overview
 
-This project demonstrates the complete data analysis workflow — from data collection to visualization and reporting.
-It includes loading and exploring a dataset in Python, cleaning and preparing the data, performing SQL queries in PostgreSQL, and building an interactive Power BI dashboard to communicate insights effectively.
+Business Problem Statement 
+A leading retail company wants to better understand its customers’ shopping behavior in order 
+to improve sales, customer satisfaction, and long-term loyalty. The management team has noticed changes in purchasing patterns across demographics, product categories, and sales channels (online vs. offline). They are particularly interested in uncovering which factors, such as discounts, reviews, seasons, or payment preferences, drive consumer decisions and repeat purchases.This project demonstrates the complete  data analysis workflow — from data collection to visualization and reporting.It includes loading and exploring a dataset in Python, cleaning and preparing the data, performing SQL queries in PostgreSQL, and building an interactive Power BI dashboard to communicate insights effectively.
 
 The goal of this project is to showcase strong analytical, technical, and storytelling skills in a real-world data analysis scenario.
 
-🗂️ Dataset
+Project Overview
+This project analyzes customer shopping behavior using transactional data from 3,900 purchases across various product categories. The goal is to uncover insights into spending patterns, customer segments, product preferences, and subscription behavior to guide strategic business decisions.
 
-Source: [Specify dataset name or link if public, e.g. Kaggle or internal source]
-
-Description: Contains [briefly describe — e.g., customer transactions, sales records, or marketing campaign data].
-
-Size: [e.g., 10,000 rows × 15 columns]
-
-Key features: [List 3–4 key columns and what they represent]
+Dataset Summary
+-Rows:3,900
+- Columns:18
+- Key Features:
+- Customer demographics (Age, Gender, Location, Subscription Status)
+- Purchase details (Item Purchased, Category, Purchase Amount, Season, Size, Color)
+- Shopping behavior (Discount Applied, Promo Code Used, Previous Purchases,
+- Frequency of Purchases, Review Rating, Shipping Type)
+- Missing Data:37 values in Review Rating column
 
 🛠️ Tools & Technologies
 
