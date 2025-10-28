@@ -80,7 +80,7 @@ Drill-down views for detailed exploration
 
 <img width="1211" height="743" alt="Image" src="https://github.com/user-attachments/assets/c2f98746-52e3-4e7e-932e-1c9fe267bee7" />
 
-
+<img width="1208" height="734" alt="Image" src="https://github.com/user-attachments/assets/1c6d77c4-ab83-47dc-b2bf-476708985f6e" />
 🧾 Results & Insights
 
 [Summarize 2–3 main insights, e.g.:]
