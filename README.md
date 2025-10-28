@@ -95,3 +95,16 @@ Drill-down views for detailed exploration
 - Subscription customers show **35% higher repeat purchase rate**  
 - **Seasonal peaks** observed during festive periods  
 - Positive product reviews strongly correlate with higher spending 
+
+1.Clone the repository
+git clone https://github.com/nandhumcait/customer-behavior-analysis.git
+
+2.Install dependencies
+pip install -r requirements.txt
+
+3.Load cleaned data into PostgreSQL
+Use the SQL scripts in the /sql folder.
+
+4.Open Power BI
+Connect to the PostgreSQL database.
+
